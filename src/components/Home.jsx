@@ -22,9 +22,9 @@ function Home() {
                 <Introduction />
             </div>
 
-            <h3 id='dashboard' className='text-center dashboard-heading'>{t('dashboardTitle')}</h3>
+            {/* <h3 id='dashboard' className='text-center dashboard-heading'>{t('dashboardTitle')}</h3> */}
 
-            <div className='row justify-content-center mt-3 graph-row'>
+            <div id='dashboard' className='row justify-content-center graph-row'>
                 <LineGraph />
             </div>
 
