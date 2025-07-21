@@ -78,7 +78,7 @@ function BarGraph() {
         <h3>{t('barChart.graphSettings')}</h3>
         <div className='row my-3'>
             <Form.Label>{t('barChart.year')}</Form.Label>
-            <Form.Select value={barGraphYear} onChange={onChangeBarGraphYear}>
+            <Form.Select className="custom-form-select" value={barGraphYear} onChange={onChangeBarGraphYear}>
                 <option value="2017">2017</option>
                 <option value="2018">2018</option>
                 <option value="2019">2019</option>
@@ -92,7 +92,7 @@ function BarGraph() {
 
         <div className='row my-3'>
             <Form.Label>{t('barChart.province')}</Form.Label>
-            <Form.Select value={barGraphProvince} onChange={onChangeBarGraphProvince}>
+            <Form.Select className="custom-form-select" value={barGraphProvince} onChange={onChangeBarGraphProvince}>
                 <option value='Canada'>{t('provinces.all')}</option>
                 <option value='Newfoundland and Labrador'>{t('provinces.newfoundlandAndLabrador')}</option>
                 <option value='Prince Edward Island'>{t('provinces.princeEdwardIsland')}</option>

@@ -105,7 +105,7 @@ function LineGraph() {
 
             <div className='row my-3'>
                 <Form.Label className="form-label">{t('lineChart.fuelType')}</Form.Label>
-                <Form.Select onChange={onChangeLineGraphFuelType}>
+                <Form.Select className="custom-form-select" onChange={onChangeLineGraphFuelType}>
                     <option value="All Fuel Types">{t('fuelTypes.all')}</option>
                     <option value="Gasoline">{t('fuelTypes.gasoline')}</option>
                     <option value="Diesel">{t('fuelTypes.diesel')}</option>

@@ -30,3 +30,9 @@ h3 {
 .chart-paragraph {
     color: white;
 }
+
+.custom-form-select {
+    background-color: #0F2034;
+    color: white;
+    border: none;
+}
