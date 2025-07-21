@@ -54,23 +54,23 @@
 
 @media (max-width: 1500px) {
     .intro-element {
-        height: 58vh;
+        height: 76vh;
         color: white !important;
         border: none !important;
     }
     .intro-welcome {
         border: none;
-        font-size: 2rem;
+        font-size: 3rem;
         font-weight: bolder;
     }
 
     .intro-welcome-description {
-        font-size: 1rem;
+        font-size: 1.35rem;
         font-weight: 550;
     }
 
     .intro-emoji-icon {
-        font-size: 10rem;
+        font-size: 13rem;
     }
 
     .intro-button {
