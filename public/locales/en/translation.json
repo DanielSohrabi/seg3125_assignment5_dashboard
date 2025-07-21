@@ -1,0 +1,70 @@
+{
+    "introduction": {
+        "welcomeMessage": "Welcome to Regis!",
+        "paragraphMessage1": "This is an interactive dashboard using data from Statistics Canada on “New motor vehicle registrations, quarterly, by geographic level from” from 2017-2024.",
+        "paragraphMessage2": "The dashboard includes a bar chart and a line chart, showing different representations of the data, with customization of the different parameters of each chart.",
+        "viewDashboard": "View Dashboard"
+    },
+    "dashboardTitle": "New Motor Vehicle Registrations Dashboard",
+    "navigationBar": {
+        "title": "RegisDash 🚘",
+        "home": "Home",
+        "dashboard": "Dashboard"
+    },
+    "lineChart": {
+        "title": "Annual, New Motor Vehicle Registrations",
+        "startYear": "Start Year",
+        "endYear": "End Year",
+        "fuelType": "Fuel Type",
+        "dataPointDescriptor": "Cars Registered",
+        "carsRegistered": "Cars Registered",
+        "graphSettings": "Parameters ⚙️",
+        "description": "Description",
+        "paragraph": "Every year since 2017, Statistics Canada has published data on New Motor Vehicle Registrations by fuel type. This graph includes gasoline, diesel, battery electric, plug-in hybrid electric, hybrid electric and other fuel types. Options to view diffferent year ranges, and different fuel types are available to the right of the chart."
+    },
+    "barChart": {
+        "title": "New Motor Vehicle Registrations, by Fuel",
+        "year": "Year",
+        "province": "Province",
+        "Gasoline": "Gasoline",
+        "Diesel": "Diesel",
+        "BatteryElectric": "Battery Electric",
+        "Plug-inHybridElectric": "Plug-in Hybrid Electric",
+        "HybridElectric": "Hybrid Electric",
+        "OtherFuelTypes":  "Other Fuel Types",
+        "GasolineShort": "Gasoline",
+        "DieselShort": "Diesel",
+        "BatteryElectricShort": "B.E.",
+        "Plug-inHybridElectricShort": "P.H.E.",
+        "HybridElectricShort": "H.E.",
+        "OtherFuelTypesShort": "Other",
+        "graphSettings": "Parameters ⚙️",
+        "description": "Description",
+        "paragraph": "Every year since 2017, Statistics Canada has published data on New Motor Vehicle Registrations by fuel type. This graph includes gasoline, diesel, battery electric, plug-in hybrid electric, hybrid electric and other fuel types. Options to view a diffferent year and different provinces are available to the right of the chart."
+    },
+    "fuelTypes": {
+        "all": "All Fuel Types",
+        "gasoline": "Gasoline",
+        "diesel": "Diesel",
+        "batteryElectric": "Battery Electric",
+        "plugInHybrid": "Plug-in Hybrid Electric",
+        "hybridElectric": "Hybrid Electric",
+        "other": "Other Fuel Types"
+    },
+    "provinces": {
+        "all": "All Provinces",
+        "alberta": "Alberta",
+        "britishColumbia": "British Columbia",
+        "manitoba": "Manitoba",
+        "newBrunswick": "New Brunswick",
+        "newfoundlandAndLabrador": "Newfoundland and Labrador",
+        "novaScotia": "Nova Scotia",
+        "northwestTerritories": "Northwest Territories",
+        "nunavut": "Nunavut",
+        "ontario": "Ontario",
+        "princeEdwardIsland": "Prince Edward Island",
+        "quebec": "Quebec",
+        "saskatchewan": "Saskatchewan",
+        "yukon": "Yukon"
+    }
+}

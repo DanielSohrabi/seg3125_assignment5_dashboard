@@ -1,0 +1,1570 @@
+[
+  {
+    "Geography": "Canada",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 2037744},
+      {"year": "2018", "Cars Registered": 1975592},
+      {"year": "2019", "Cars Registered": 1931981},
+      {"year": "2020", "Cars Registered": 1545625},
+      {"year": "2021", "Cars Registered": 1646812},
+      {"year": "2022", "Cars Registered": 1513105},
+      {"year": "2023", "Cars Registered": 1714999},
+      {"year": "2024", "Cars Registered": 1853441}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 1928450},
+      {"year": "2018", "Cars Registered": 1834637},
+      {"year": "2019", "Cars Registered": 1778052},
+      {"year": "2020", "Cars Registered": 1384875},
+      {"year": "2021", "Cars Registered": 1415193},
+      {"year": "2022", "Cars Registered": 1233181},
+      {"year": "2023", "Cars Registered": 1316512},
+      {"year": "2024", "Cars Registered": 1333390}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 65784},
+      {"year": "2018", "Cars Registered": 70597},
+      {"year": "2019", "Cars Registered": 59131},
+      {"year": "2020", "Cars Registered": 64739},
+      {"year": "2021", "Cars Registered": 65843},
+      {"year": "2022", "Cars Registered": 75247},
+      {"year": "2023", "Cars Registered": 74028},
+      {"year": "2024", "Cars Registered": 79748}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 19694},
+      {"year": "2018", "Cars Registered": 44294},
+      {"year": "2019", "Cars Registered": 55972},
+      {"year": "2020", "Cars Registered": 54410},
+      {"year": "2021", "Cars Registered": 86457},
+      {"year": "2022", "Cars Registered": 123610},
+      {"year": "2023", "Cars Registered": 188756},
+      {"year": "2024", "Cars Registered": 271228}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 9086},
+      {"year": "2018", "Cars Registered": 22582},
+      {"year": "2019", "Cars Registered": 35550},
+      {"year": "2020", "Cars Registered": 39046},
+      {"year": "2021", "Cars Registered": 59133},
+      {"year": "2022", "Cars Registered": 98620},
+      {"year": "2023", "Cars Registered": 143666},
+      {"year": "2024", "Cars Registered": 202333}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 10608},
+      {"year": "2018", "Cars Registered": 21712},
+      {"year": "2019", "Cars Registered": 20422},
+      {"year": "2020", "Cars Registered": 15364},
+      {"year": "2021", "Cars Registered": 27324},
+      {"year": "2022", "Cars Registered": 24990},
+      {"year": "2023", "Cars Registered": 45090},
+      {"year": "2024", "Cars Registered": 68895}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 23811},
+      {"year": "2018", "Cars Registered": 25811},
+      {"year": "2019", "Cars Registered": 38616},
+      {"year": "2020", "Cars Registered": 41543},
+      {"year": "2021", "Cars Registered": 79314},
+      {"year": "2022", "Cars Registered": 81049},
+      {"year": "2023", "Cars Registered": 135687},
+      {"year": "2024", "Cars Registered": 169055}
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 5},
+      {"year": "2018", "Cars Registered": 253},
+      {"year": "2019", "Cars Registered": 210},
+      {"year": "2020", "Cars Registered": 58},
+      {"year": "2021", "Cars Registered": 5},
+      {"year": "2022", "Cars Registered": 18},
+      {"year": "2023", "Cars Registered": 16},
+      {"year": "2024", "Cars Registered": 20}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Newfoundland and Labrador",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 7455},
+      {"year": "2018", "Cars Registered": 7523},
+      {"year": "2019", "Cars Registered": 7138},
+      {"year": "2020", "Cars Registered": 5508},
+      {"year": "2021", "Cars Registered": 8235},
+      {"year": "2022", "Cars Registered": 5477},
+      {"year": "2023", "Cars Registered": 6538},
+      {"year": "2024", "Cars Registered": 7132}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 7234},
+      {"year": "2018", "Cars Registered": 7323},
+      {"year": "2019", "Cars Registered": 6831},
+      {"year": "2020", "Cars Registered": 5177},
+      {"year": "2021", "Cars Registered": 7434},
+      {"year": "2022", "Cars Registered": 4706},
+      {"year": "2023", "Cars Registered": 5151},
+      {"year": "2024", "Cars Registered": 5446}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 142},
+      {"year": "2018", "Cars Registered": 131},
+      {"year": "2019", "Cars Registered": 142},
+      {"year": "2020", "Cars Registered": 192},
+      {"year": "2021", "Cars Registered": 309},
+      {"year": "2022", "Cars Registered": 265},
+      {"year": "2023", "Cars Registered": 279},
+      {"year": "2024", "Cars Registered": 387}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 6},
+      {"year": "2018", "Cars Registered": 16},
+      {"year": "2019", "Cars Registered": 43},
+      {"year": "2020", "Cars Registered": 45},
+      {"year": "2021", "Cars Registered": 173},
+      {"year": "2022", "Cars Registered": 220},
+      {"year": "2023", "Cars Registered": 502},
+      {"year": "2024", "Cars Registered": 615}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 2},
+      {"year": "2018", "Cars Registered": 11},
+      {"year": "2019", "Cars Registered": 25},
+      {"year": "2020", "Cars Registered": 24},
+      {"year": "2021", "Cars Registered": 114},
+      {"year": "2022", "Cars Registered": 168},
+      {"year": "2023", "Cars Registered": 305},
+      {"year": "2024", "Cars Registered": 305}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 4},
+      {"year": "2018", "Cars Registered": 5},
+      {"year": "2019", "Cars Registered": 18},
+      {"year": "2020", "Cars Registered": 21},
+      {"year": "2021", "Cars Registered": 59},
+      {"year": "2022", "Cars Registered": 52},
+      {"year": "2023", "Cars Registered": 197},
+      {"year": "2024", "Cars Registered": 310}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 73},
+      {"year": "2018", "Cars Registered": 53},
+      {"year": "2019", "Cars Registered": 122},
+      {"year": "2020", "Cars Registered": 94},
+      {"year": "2021", "Cars Registered": 319},
+      {"year": "2022", "Cars Registered": 286},
+      {"year": "2023", "Cars Registered": 606},
+      {"year": "2024", "Cars Registered": 684}
+    ]
+  },
+  {
+    "Geography": "Prince Edward Island",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 60751},
+      {"year": "2018", "Cars Registered": 55431},
+      {"year": "2019", "Cars Registered": 53488},
+      {"year": "2020", "Cars Registered": 41999},
+      {"year": "2021", "Cars Registered": 46026},
+      {"year": "2022", "Cars Registered": 37374},
+      {"year": "2023", "Cars Registered": 42460},
+      {"year": "2024", "Cars Registered": 48646}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 58807},
+      {"year": "2018", "Cars Registered": 53526},
+      {"year": "2019", "Cars Registered": 51251},
+      {"year": "2020", "Cars Registered": 39519},
+      {"year": "2021", "Cars Registered": 42128},
+      {"year": "2022", "Cars Registered": 33050},
+      {"year": "2023", "Cars Registered": 35575},
+      {"year": "2024", "Cars Registered": 39525}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 1395},
+      {"year": "2018", "Cars Registered": 1369},
+      {"year": "2019", "Cars Registered": 1227},
+      {"year": "2020", "Cars Registered": 1241},
+      {"year": "2021", "Cars Registered": 1345},
+      {"year": "2022", "Cars Registered": 1598},
+      {"year": "2023", "Cars Registered": 1370},
+      {"year": "2024", "Cars Registered": 1663}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 31},
+      {"year": "2018", "Cars Registered": 80},
+      {"year": "2019", "Cars Registered": 160},
+      {"year": "2020", "Cars Registered": 249},
+      {"year": "2021", "Cars Registered": 629},
+      {"year": "2022", "Cars Registered": 972},
+      {"year": "2023", "Cars Registered": 1971},
+      {"year": "2024", "Cars Registered": 2809}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 6},
+      {"year": "2018", "Cars Registered": 35},
+      {"year": "2019", "Cars Registered": 88},
+      {"year": "2020", "Cars Registered": 162},
+      {"year": "2021", "Cars Registered": 370},
+      {"year": "2022", "Cars Registered": 666},
+      {"year": "2023", "Cars Registered": 1222},
+      {"year": "2024", "Cars Registered": 1507}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 25},
+      {"year": "2018", "Cars Registered": 45},
+      {"year": "2019", "Cars Registered": 72},
+      {"year": "2020", "Cars Registered": 87},
+      {"year": "2021", "Cars Registered": 259},
+      {"year": "2022", "Cars Registered": 306},
+      {"year": "2023", "Cars Registered": 749},
+      {"year": "2024", "Cars Registered": 1302}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 518},
+      {"year": "2018", "Cars Registered": 426},
+      {"year": "2019", "Cars Registered": 849},
+      {"year": "2020", "Cars Registered": 981},
+      {"year": "2021", "Cars Registered": 1921},
+      {"year": "2022", "Cars Registered": 1754},
+      {"year": "2023", "Cars Registered": 3544},
+      {"year": "2024", "Cars Registered": 4649}
+    ]
+  },
+  {
+    "Geography": "Nova Scotia",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 30},
+      {"year": "2019", "Cars Registered": 1},
+      {"year": "2020", "Cars Registered": 9},
+      {"year": "2021", "Cars Registered": 3},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 43906},
+      {"year": "2018", "Cars Registered": 40967},
+      {"year": "2019", "Cars Registered": 40568},
+      {"year": "2020", "Cars Registered": 34170},
+      {"year": "2021", "Cars Registered": 36681},
+      {"year": "2022", "Cars Registered": 32694},
+      {"year": "2023", "Cars Registered": 35632},
+      {"year": "2024", "Cars Registered": 40600}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 42660},
+      {"year": "2018", "Cars Registered": 39678},
+      {"year": "2019", "Cars Registered": 38923},
+      {"year": "2020", "Cars Registered": 32361},
+      {"year": "2021", "Cars Registered": 33685},
+      {"year": "2022", "Cars Registered": 28865},
+      {"year": "2023", "Cars Registered": 29831},
+      {"year": "2024", "Cars Registered": 32371}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 901},
+      {"year": "2018", "Cars Registered": 932},
+      {"year": "2019", "Cars Registered": 923},
+      {"year": "2020", "Cars Registered": 948},
+      {"year": "2021", "Cars Registered": 1090},
+      {"year": "2022", "Cars Registered": 1449},
+      {"year": "2023", "Cars Registered": 1234},
+      {"year": "2024", "Cars Registered": 1683}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 26},
+      {"year": "2018", "Cars Registered": 56},
+      {"year": "2019", "Cars Registered": 166},
+      {"year": "2020", "Cars Registered": 180},
+      {"year": "2021", "Cars Registered": 473},
+      {"year": "2022", "Cars Registered": 861},
+      {"year": "2023", "Cars Registered": 1746},
+      {"year": "2024", "Cars Registered": 2827}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 6},
+      {"year": "2018", "Cars Registered": 22},
+      {"year": "2019", "Cars Registered": 80},
+      {"year": "2020", "Cars Registered": 110},
+      {"year": "2021", "Cars Registered": 271},
+      {"year": "2022", "Cars Registered": 571},
+      {"year": "2023", "Cars Registered": 963},
+      {"year": "2024", "Cars Registered": 1364}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 20},
+      {"year": "2018", "Cars Registered": 34},
+      {"year": "2019", "Cars Registered": 86},
+      {"year": "2020", "Cars Registered": 70},
+      {"year": "2021", "Cars Registered": 202},
+      {"year": "2022", "Cars Registered": 290},
+      {"year": "2023", "Cars Registered": 783},
+      {"year": "2024", "Cars Registered": 1463}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 319},
+      {"year": "2018", "Cars Registered": 284},
+      {"year": "2019", "Cars Registered": 555},
+      {"year": "2020", "Cars Registered": 681},
+      {"year": "2021", "Cars Registered": 1433},
+      {"year": "2022", "Cars Registered": 1519},
+      {"year": "2023", "Cars Registered": 2821},
+      {"year": "2024", "Cars Registered": 3719}
+    ]
+  },
+  {
+    "Geography": "New Brunswick",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 17},
+      {"year": "2019", "Cars Registered": 1},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 474266},
+      {"year": "2018", "Cars Registered": 464277},
+      {"year": "2019", "Cars Registered": 458209},
+      {"year": "2020", "Cars Registered": 383315},
+      {"year": "2021", "Cars Registered": 413738},
+      {"year": "2022", "Cars Registered": 373098},
+      {"year": "2023", "Cars Registered": 415571},
+      {"year": "2024", "Cars Registered": 478493}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 449325},
+      {"year": "2018", "Cars Registered": 427768},
+      {"year": "2019", "Cars Registered": 412373},
+      {"year": "2020", "Cars Registered": 336932},
+      {"year": "2021", "Cars Registered": 347123},
+      {"year": "2022", "Cars Registered": 295288},
+      {"year": "2023", "Cars Registered": 297407},
+      {"year": "2024", "Cars Registered": 288754}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 10512},
+      {"year": "2018", "Cars Registered": 11746},
+      {"year": "2019", "Cars Registered": 10035},
+      {"year": "2020", "Cars Registered": 11729},
+      {"year": "2021", "Cars Registered": 13939},
+      {"year": "2022", "Cars Registered": 15278},
+      {"year": "2023", "Cars Registered": 14240},
+      {"year": "2024", "Cars Registered": 15883}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 7793},
+      {"year": "2018", "Cars Registered": 17842},
+      {"year": "2019", "Cars Registered": 27047},
+      {"year": "2020", "Cars Registered": 26144},
+      {"year": "2021", "Cars Registered": 37034},
+      {"year": "2022", "Cars Registered": 45881},
+      {"year": "2023", "Cars Registered": 79802},
+      {"year": "2024", "Cars Registered": 147757}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 3349},
+      {"year": "2018", "Cars Registered": 8537},
+      {"year": "2019", "Cars Registered": 15289},
+      {"year": "2020", "Cars Registered": 17066},
+      {"year": "2021", "Cars Registered": 22642},
+      {"year": "2022", "Cars Registered": 34107},
+      {"year": "2023", "Cars Registered": 59690},
+      {"year": "2024", "Cars Registered": 114564}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 4444},
+      {"year": "2018", "Cars Registered": 9305},
+      {"year": "2019", "Cars Registered": 11758},
+      {"year": "2020", "Cars Registered": 9078},
+      {"year": "2021", "Cars Registered": 14392},
+      {"year": "2022", "Cars Registered": 11774},
+      {"year": "2023", "Cars Registered": 20112},
+      {"year": "2024", "Cars Registered": 33193}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 6632},
+      {"year": "2018", "Cars Registered": 6842},
+      {"year": "2019", "Cars Registered": 8680},
+      {"year": "2020", "Cars Registered": 8505},
+      {"year": "2021", "Cars Registered": 15641},
+      {"year": "2022", "Cars Registered": 16649},
+      {"year": "2023", "Cars Registered": 24121},
+      {"year": "2024", "Cars Registered": 26099}
+    ]
+  },
+  {
+    "Geography": "Quebec",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 4},
+      {"year": "2018", "Cars Registered": 79},
+      {"year": "2019", "Cars Registered": 74},
+      {"year": "2020", "Cars Registered": 5},
+      {"year": "2021", "Cars Registered": 1},
+      {"year": "2022", "Cars Registered": 2},
+      {"year": "2023", "Cars Registered": 1},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 801395},
+      {"year": "2018", "Cars Registered": 798573},
+      {"year": "2019", "Cars Registered": 796078},
+      {"year": "2020", "Cars Registered": 600557},
+      {"year": "2021", "Cars Registered": 627268},
+      {"year": "2022", "Cars Registered": 594499},
+      {"year": "2023", "Cars Registered": 677001},
+      {"year": "2024", "Cars Registered": 699263}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 766911},
+      {"year": "2018", "Cars Registered": 751159},
+      {"year": "2019", "Cars Registered": 754502},
+      {"year": "2020", "Cars Registered": 555293},
+      {"year": "2021", "Cars Registered": 555927},
+      {"year": "2022", "Cars Registered": 497575},
+      {"year": "2023", "Cars Registered": 542014},
+      {"year": "2024", "Cars Registered": 540158}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 17887},
+      {"year": "2018", "Cars Registered": 21356},
+      {"year": "2019", "Cars Registered": 17246},
+      {"year": "2020", "Cars Registered": 17754},
+      {"year": "2021", "Cars Registered": 18200},
+      {"year": "2022", "Cars Registered": 22803},
+      {"year": "2023", "Cars Registered": 22326},
+      {"year": "2024", "Cars Registered": 22942}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 8178},
+      {"year": "2018", "Cars Registered": 16760},
+      {"year": "2019", "Cars Registered": 9645},
+      {"year": "2020", "Cars Registered": 10517},
+      {"year": "2021", "Cars Registered": 19810},
+      {"year": "2022", "Cars Registered": 38662},
+      {"year": "2023", "Cars Registered": 50132},
+      {"year": "2024", "Cars Registered": 56593}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 3563},
+      {"year": "2018", "Cars Registered": 8216},
+      {"year": "2019", "Cars Registered": 6562},
+      {"year": "2020", "Cars Registered": 8161},
+      {"year": "2021", "Cars Registered": 14821},
+      {"year": "2022", "Cars Registered": 32783},
+      {"year": "2023", "Cars Registered": 38635},
+      {"year": "2024", "Cars Registered": 41659}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 4615},
+      {"year": "2018", "Cars Registered": 8544},
+      {"year": "2019", "Cars Registered": 3083},
+      {"year": "2020", "Cars Registered": 2356},
+      {"year": "2021", "Cars Registered": 4989},
+      {"year": "2022", "Cars Registered": 5879},
+      {"year": "2023", "Cars Registered": 11497},
+      {"year": "2024", "Cars Registered": 14934}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 8418},
+      {"year": "2018", "Cars Registered": 9269},
+      {"year": "2019", "Cars Registered": 14591},
+      {"year": "2020", "Cars Registered": 16979},
+      {"year": "2021", "Cars Registered": 33331},
+      {"year": "2022", "Cars Registered": 35457},
+      {"year": "2023", "Cars Registered": 62529},
+      {"year": "2024", "Cars Registered": 79570}
+    ]
+  },
+  {
+    "Geography": "Ontario",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 1},
+      {"year": "2018", "Cars Registered": 29},
+      {"year": "2019", "Cars Registered": 94},
+      {"year": "2020", "Cars Registered": 14},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 2},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 58318},
+      {"year": "2018", "Cars Registered": 53977},
+      {"year": "2019", "Cars Registered": 51350},
+      {"year": "2020", "Cars Registered": 44617},
+      {"year": "2021", "Cars Registered": 46552},
+      {"year": "2022", "Cars Registered": 41255},
+      {"year": "2023", "Cars Registered": 45118},
+      {"year": "2024", "Cars Registered": 55227}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 56355},
+      {"year": "2018", "Cars Registered": 51959},
+      {"year": "2019", "Cars Registered": 49191},
+      {"year": "2020", "Cars Registered": 42034},
+      {"year": "2021", "Cars Registered": 42538},
+      {"year": "2022", "Cars Registered": 36505},
+      {"year": "2023", "Cars Registered": 38151},
+      {"year": "2024", "Cars Registered": 44927}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 1545},
+      {"year": "2018", "Cars Registered": 1490},
+      {"year": "2019", "Cars Registered": 1271},
+      {"year": "2020", "Cars Registered": 1385},
+      {"year": "2021", "Cars Registered": 1441},
+      {"year": "2022", "Cars Registered": 1848},
+      {"year": "2023", "Cars Registered": 1890},
+      {"year": "2024", "Cars Registered": 2227}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 54},
+      {"year": "2018", "Cars Registered": 159},
+      {"year": "2019", "Cars Registered": 287},
+      {"year": "2020", "Cars Registered": 312},
+      {"year": "2021", "Cars Registered": 632},
+      {"year": "2022", "Cars Registered": 1046},
+      {"year": "2023", "Cars Registered": 1598},
+      {"year": "2024", "Cars Registered": 2951}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 21},
+      {"year": "2018", "Cars Registered": 72},
+      {"year": "2019", "Cars Registered": 149},
+      {"year": "2020", "Cars Registered": 211},
+      {"year": "2021", "Cars Registered": 357},
+      {"year": "2022", "Cars Registered": 711},
+      {"year": "2023", "Cars Registered": 966},
+      {"year": "2024", "Cars Registered": 1769}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 33},
+      {"year": "2018", "Cars Registered": 87},
+      {"year": "2019", "Cars Registered": 138},
+      {"year": "2020", "Cars Registered": 101},
+      {"year": "2021", "Cars Registered": 275},
+      {"year": "2022", "Cars Registered": 335},
+      {"year": "2023", "Cars Registered": 632},
+      {"year": "2024", "Cars Registered": 1182}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 364},
+      {"year": "2018", "Cars Registered": 366},
+      {"year": "2019", "Cars Registered": 600},
+      {"year": "2020", "Cars Registered": 886},
+      {"year": "2021", "Cars Registered": 1941},
+      {"year": "2022", "Cars Registered": 1856},
+      {"year": "2023", "Cars Registered": 3479},
+      {"year": "2024", "Cars Registered": 5122}
+    ]
+  },
+  {
+    "Geography": "Manitoba",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 3},
+      {"year": "2019", "Cars Registered": 1},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 56519},
+      {"year": "2018", "Cars Registered": 52415},
+      {"year": "2019", "Cars Registered": 49337},
+      {"year": "2020", "Cars Registered": 44850},
+      {"year": "2021", "Cars Registered": 44821},
+      {"year": "2022", "Cars Registered": 42890},
+      {"year": "2023", "Cars Registered": 47434},
+      {"year": "2024", "Cars Registered": 51592}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 52617},
+      {"year": "2018", "Cars Registered": 48500},
+      {"year": "2019", "Cars Registered": 45646},
+      {"year": "2020", "Cars Registered": 40367},
+      {"year": "2021", "Cars Registered": 39214},
+      {"year": "2022", "Cars Registered": 36248},
+      {"year": "2023", "Cars Registered": 39229},
+      {"year": "2024", "Cars Registered": 41803}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 3675},
+      {"year": "2018", "Cars Registered": 3595},
+      {"year": "2019", "Cars Registered": 3057},
+      {"year": "2020", "Cars Registered": 3677},
+      {"year": "2021", "Cars Registered": 3600},
+      {"year": "2022", "Cars Registered": 4433},
+      {"year": "2023", "Cars Registered": 4392},
+      {"year": "2024", "Cars Registered": 4966}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 31},
+      {"year": "2018", "Cars Registered": 87},
+      {"year": "2019", "Cars Registered": 175},
+      {"year": "2020", "Cars Registered": 198},
+      {"year": "2021", "Cars Registered": 478},
+      {"year": "2022", "Cars Registered": 705},
+      {"year": "2023", "Cars Registered": 1076},
+      {"year": "2024", "Cars Registered": 1394}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 13},
+      {"year": "2018", "Cars Registered": 45},
+      {"year": "2019", "Cars Registered": 107},
+      {"year": "2020", "Cars Registered": 123},
+      {"year": "2021", "Cars Registered": 303},
+      {"year": "2022", "Cars Registered": 507},
+      {"year": "2023", "Cars Registered": 606},
+      {"year": "2024", "Cars Registered": 769}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 18},
+      {"year": "2018", "Cars Registered": 42},
+      {"year": "2019", "Cars Registered": 68},
+      {"year": "2020", "Cars Registered": 75},
+      {"year": "2021", "Cars Registered": 175},
+      {"year": "2022", "Cars Registered": 198},
+      {"year": "2023", "Cars Registered": 470},
+      {"year": "2024", "Cars Registered": 625}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 196},
+      {"year": "2018", "Cars Registered": 233},
+      {"year": "2019", "Cars Registered": 459},
+      {"year": "2020", "Cars Registered": 608},
+      {"year": "2021", "Cars Registered": 1529},
+      {"year": "2022", "Cars Registered": 1504},
+      {"year": "2023", "Cars Registered": 2737},
+      {"year": "2024", "Cars Registered": 3429}
+    ]
+  },
+  {
+    "Geography": "Saskatchewan",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Alberta",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 243726},
+      {"year": "2018", "Cars Registered": 225986},
+      {"year": "2019", "Cars Registered": 213822},
+      {"year": "2020", "Cars Registered": 177662},
+      {"year": "2021", "Cars Registered": 201177},
+      {"year": "2022", "Cars Registered": 179253},
+      {"year": "2023", "Cars Registered": 206359},
+      {"year": "2024", "Cars Registered": 214600}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 223420},
+      {"year": "2018", "Cars Registered": 198846},
+      {"year": "2019", "Cars Registered": 177620},
+      {"year": "2020", "Cars Registered": 141431},
+      {"year": "2021", "Cars Registered": 152449},
+      {"year": "2022", "Cars Registered": 126508},
+      {"year": "2023", "Cars Registered": 132927},
+      {"year": "2024", "Cars Registered": 133422}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 11917},
+      {"year": "2018", "Cars Registered": 12741},
+      {"year": "2019", "Cars Registered": 10628},
+      {"year": "2020", "Cars Registered": 12396},
+      {"year": "2021", "Cars Registered": 11067},
+      {"year": "2022", "Cars Registered": 10102},
+      {"year": "2023", "Cars Registered": 10311},
+      {"year": "2024", "Cars Registered": 10968}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 3142},
+      {"year": "2018", "Cars Registered": 8322},
+      {"year": "2019", "Cars Registered": 16964},
+      {"year": "2020", "Cars Registered": 15185},
+      {"year": "2021", "Cars Registered": 23866},
+      {"year": "2022", "Cars Registered": 29587},
+      {"year": "2023", "Cars Registered": 43448},
+      {"year": "2024", "Cars Registered": 45566}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 1915},
+      {"year": "2018", "Cars Registered": 5105},
+      {"year": "2019", "Cars Registered": 12291},
+      {"year": "2020", "Cars Registered": 12076},
+      {"year": "2021", "Cars Registered": 18136},
+      {"year": "2022", "Cars Registered": 24766},
+      {"year": "2023", "Cars Registered": 35763},
+      {"year": "2024", "Cars Registered": 33932}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 1227},
+      {"year": "2018", "Cars Registered": 3217},
+      {"year": "2019", "Cars Registered": 4673},
+      {"year": "2020", "Cars Registered": 3109},
+      {"year": "2021", "Cars Registered": 5730},
+      {"year": "2022", "Cars Registered": 4821},
+      {"year": "2023", "Cars Registered": 7685},
+      {"year": "2024", "Cars Registered": 11634}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 5247},
+      {"year": "2018", "Cars Registered": 6067},
+      {"year": "2019", "Cars Registered": 8574},
+      {"year": "2020", "Cars Registered": 8620},
+      {"year": "2021", "Cars Registered": 13795},
+      {"year": "2022", "Cars Registered": 13042},
+      {"year": "2023", "Cars Registered": 19658},
+      {"year": "2024", "Cars Registered": 24624}
+    ]
+  },
+  {
+    "Geography": "British Columbia",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 10},
+      {"year": "2019", "Cars Registered": 36},
+      {"year": "2020", "Cars Registered": 30},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 14},
+      {"year": "2023", "Cars Registered": 15},
+      {"year": "2024", "Cars Registered": 20}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 1760},
+      {"year": "2018", "Cars Registered": 1923},
+      {"year": "2019", "Cars Registered": 1995},
+      {"year": "2020", "Cars Registered": 1443},
+      {"year": "2021", "Cars Registered": 1604},
+      {"year": "2022", "Cars Registered": 1560},
+      {"year": "2023", "Cars Registered": 1784},
+      {"year": "2024", "Cars Registered": 2024}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 1594},
+      {"year": "2018", "Cars Registered": 1762},
+      {"year": "2019", "Cars Registered": 1782},
+      {"year": "2020", "Cars Registered": 1293},
+      {"year": "2021", "Cars Registered": 1358},
+      {"year": "2022", "Cars Registered": 1255},
+      {"year": "2023", "Cars Registered": 1387},
+      {"year": "2024", "Cars Registered": 1537}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 142},
+      {"year": "2018", "Cars Registered": 135},
+      {"year": "2019", "Cars Registered": 170},
+      {"year": "2020", "Cars Registered": 91},
+      {"year": "2021", "Cars Registered": 107},
+      {"year": "2022", "Cars Registered": 163},
+      {"year": "2023", "Cars Registered": 124},
+      {"year": "2024", "Cars Registered": 158}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 2},
+      {"year": "2019", "Cars Registered": 9},
+      {"year": "2020", "Cars Registered": 25},
+      {"year": "2021", "Cars Registered": 67},
+      {"year": "2022", "Cars Registered": 83},
+      {"year": "2023", "Cars Registered": 154},
+      {"year": "2024", "Cars Registered": 218}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 1},
+      {"year": "2019", "Cars Registered": 3},
+      {"year": "2020", "Cars Registered": 11},
+      {"year": "2021", "Cars Registered": 25},
+      {"year": "2022", "Cars Registered": 49},
+      {"year": "2023", "Cars Registered": 108},
+      {"year": "2024", "Cars Registered": 148}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 1},
+      {"year": "2019", "Cars Registered": 6},
+      {"year": "2020", "Cars Registered": 14},
+      {"year": "2021", "Cars Registered": 42},
+      {"year": "2022", "Cars Registered": 34},
+      {"year": "2023", "Cars Registered": 46},
+      {"year": "2024", "Cars Registered": 70}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 24},
+      {"year": "2018", "Cars Registered": 24},
+      {"year": "2019", "Cars Registered": 34},
+      {"year": "2020", "Cars Registered": 34},
+      {"year": "2021", "Cars Registered": 72},
+      {"year": "2022", "Cars Registered": 59},
+      {"year": "2023", "Cars Registered": 119},
+      {"year": "2024", "Cars Registered": 111}
+    ]
+  },
+  {
+    "Geography": "Yukon",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 2231},
+      {"year": "2018", "Cars Registered": 2175},
+      {"year": "2019", "Cars Registered": 2189},
+      {"year": "2020", "Cars Registered": 2047},
+      {"year": "2021", "Cars Registered": 2138},
+      {"year": "2022", "Cars Registered": 1897},
+      {"year": "2023", "Cars Registered": 2163},
+      {"year": "2024", "Cars Registered": 2164}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 2099},
+      {"year": "2018", "Cars Registered": 2022},
+      {"year": "2019", "Cars Registered": 2042},
+      {"year": "2020", "Cars Registered": 1863},
+      {"year": "2021", "Cars Registered": 1932},
+      {"year": "2022", "Cars Registered": 1687},
+      {"year": "2023", "Cars Registered": 1903},
+      {"year": "2024", "Cars Registered": 1920}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 130},
+      {"year": "2018", "Cars Registered": 148},
+      {"year": "2019", "Cars Registered": 141},
+      {"year": "2020", "Cars Registered": 152},
+      {"year": "2021", "Cars Registered": 122},
+      {"year": "2022", "Cars Registered": 123},
+      {"year": "2023", "Cars Registered": 161},
+      {"year": "2024", "Cars Registered": 154}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 1},
+      {"year": "2018", "Cars Registered": 3},
+      {"year": "2019", "Cars Registered": 2},
+      {"year": "2020", "Cars Registered": 7},
+      {"year": "2021", "Cars Registered": 16},
+      {"year": "2022", "Cars Registered": 27},
+      {"year": "2023", "Cars Registered": 33},
+      {"year": "2024", "Cars Registered": 45}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 1},
+      {"year": "2018", "Cars Registered": 2},
+      {"year": "2019", "Cars Registered": 1},
+      {"year": "2020", "Cars Registered": 5},
+      {"year": "2021", "Cars Registered": 6},
+      {"year": "2022", "Cars Registered": 17},
+      {"year": "2023", "Cars Registered": 15},
+      {"year": "2024", "Cars Registered": 29}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 1},
+      {"year": "2019", "Cars Registered": 1},
+      {"year": "2020", "Cars Registered": 2},
+      {"year": "2021", "Cars Registered": 10},
+      {"year": "2022", "Cars Registered": 10},
+      {"year": "2023", "Cars Registered": 18},
+      {"year": "2024", "Cars Registered": 16}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 1},
+      {"year": "2018", "Cars Registered": 2},
+      {"year": "2019", "Cars Registered": 4},
+      {"year": "2020", "Cars Registered": 25},
+      {"year": "2021", "Cars Registered": 68},
+      {"year": "2022", "Cars Registered": 60},
+      {"year": "2023", "Cars Registered": 66},
+      {"year": "2024", "Cars Registered": 45}
+    ]
+  },
+  {
+    "Geography": "Northwest Territories",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "All Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 363},
+      {"year": "2024", "Cars Registered": 386}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Gasoline",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 358},
+      {"year": "2024", "Cars Registered": 377}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Diesel",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 1},
+      {"year": "2024", "Cars Registered": 5}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "All Zero-emission Vehicles",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 3},
+      {"year": "2024", "Cars Registered": 3}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Battery Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 1},
+      {"year": "2024", "Cars Registered": 1}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Plug-in Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 2},
+      {"year": "2024", "Cars Registered": 2}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Hybrid Electric",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 1},
+      {"year": "2024", "Cars Registered": 1}
+    ]
+  },
+  {
+    "Geography": "Nunavut",
+    "Fuel type": "Other Fuel Types",
+    "value": [
+      {"year": "2017", "Cars Registered": 0},
+      {"year": "2018", "Cars Registered": 0},
+      {"year": "2019", "Cars Registered": 0},
+      {"year": "2020", "Cars Registered": 0},
+      {"year": "2021", "Cars Registered": 0},
+      {"year": "2022", "Cars Registered": 0},
+      {"year": "2023", "Cars Registered": 0},
+      {"year": "2024", "Cars Registered": 0}
+    ]
+  }
+]

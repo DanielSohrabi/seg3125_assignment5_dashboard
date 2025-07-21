@@ -1,0 +1,102 @@
+.home {
+    background-color: #0F2034;
+    height: 120%;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+    /* color: white !important; */
+}
+
+.graph-row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.navbar-padding {
+    padding-top: 82px;
+}
+
+.footer-padding {
+    padding-top: 41px;
+}
+
+.intro-element {
+        height: 82vh;
+        color: white !important;
+        border: none !important;
+}
+
+
+.intro-welcome {
+    border: none;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.intro-welcome-description {
+    font-size: 2rem;
+    font-weight: 550;
+}
+
+.intro-emoji-icon {
+    font-size: 20rem;
+}
+
+.intro-button {
+    font-size: 4rem;
+    background-color: #0F2034;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    border-style: none;
+}
+
+@media (max-width: 1500px) {
+    .intro-element {
+        height: 58vh;
+        color: white !important;
+        border: none !important;
+    }
+    .intro-welcome {
+        border: none;
+        font-size: 2rem;
+        font-weight: bolder;
+    }
+
+    .intro-welcome-description {
+        font-size: 1rem;
+        font-weight: 550;
+    }
+
+    .intro-emoji-icon {
+        font-size: 10rem;
+    }
+
+    .intro-button {
+        font-size: 2rem;
+        background-color: #0F2034;
+        color: white;
+        font-weight: 600;
+        border-radius: 10px;
+        border-style: none;
+    }
+}
+
+
+.no-decoration-anchor {
+    text-decoration: none;
+    color: white;
+}
+
+
+.no-decoration-anchor:hover {
+    text-decoration: none;
+    color: white;
+}
+
+
+.dashboard-heading {
+    font-size: 2rem;
+    font-weight: bolder;
+}

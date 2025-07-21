@@ -1,0 +1,23 @@
+.site-logo-text {
+    font-size: 48px;
+    color: white !important;
+    font-weight: bolder;
+}
+
+.navi {
+    background-color: #122842;
+}
+
+.navi-text {
+    color: white !important;
+}
+
+.button-unselected {
+    background-color: #0F2034 !important;
+    border: none;
+}
+
+.button-selected {
+    background-color: #75bcffff !important;
+    border: none;
+}

@@ -1,0 +1,70 @@
+{
+    "introduction": {
+        "welcomeMessage": "Bienvenue chez Regis!",
+        "paragraphMessage1": "Il s’agit d’un tableau de bord interactif utilisant les données de Statistique Canada sur les « Immatriculations de véhicules automobiles neufs, trimestrielles, par niveau géographique » de 2017 à 2024.",
+        "paragraphMessage2": "Le tableau de bord comprend un graphique à barres et un graphique linéaire, montrant différentes représentations des données, avec personnalisation des différents paramètres de chaque graphique.",
+        "viewDashboard": "Afficher le tableau de bord"
+    },
+    "dashboardTitle": "Tableau de bord des nouvelles immatriculations de véhicules automobiles",
+    "navigationBar": {
+        "title": "DashRegis 🚘",
+        "home": "Accueil",
+        "dashboard": "Tableau de bord"
+    },
+    "lineChart": {
+        "title": "Immatriculations annuelles d'automobiles",
+        "startYear": "Année de début",
+        "endYear": "Fin d'année",
+        "fuelType": "Type de carburant",
+        "dataPointDescriptor": "Voitures enregistrées",
+        "carsRegistered": "Voitures immatriculées",
+        "graphSettings": "Paramètres ⚙️",
+        "description": "Description",
+        "paragraph": "Depuis 2017, Statistique Canada publie des données sur les immatriculations de véhicules automobiles neufs par type de carburant. Ce graphique comprend l'essence, et les autres types de carburant. Des options permettant de visualiser les différentes années et les différents types de carburant sont disponibles à droite du graphique."
+    },
+    "barChart": {
+        "title": "Immatriculations d'automobiles, par carburant",
+        "year": "Année",
+        "province": "Province",
+        "Gasoline": "Essence",
+        "Diesel": "Diesel",
+        "BatteryElectric": "Batterie électrique",
+        "Plug-inHybridElectric": "Hybride électrique rechargeable",
+        "HybridElectric": "Hybride électrique",
+        "OtherFuelTypes": "Autres types de carburant",
+        "GasolineShort": "Essence",
+        "DieselShort": "Diesel",
+        "BatteryElectricShort": "B.E.",
+        "Plug-inHybridElectricShort": "H.E.R.",
+        "HybridElectricShort": "H.E.",
+        "OtherFuelTypesShort": "Autres",
+        "graphSettings": "Paramètres ⚙️",
+        "description": "Description",
+        "paragraph": "Depuis 2017, Statistique Canada publie des données sur les immatriculations de véhicules neufs par type de carburant. Ce graphique présente les véhicules à essence et d'autres types de carburant. Des options pour visualiser une année et une province différentes sont disponibles à droite du graphique."
+    },
+    "fuelTypes": {
+        "all": "Tous types de carburant",
+        "gasoline": "Essence",
+        "diesel": "Diesel",
+        "batteryElectric": "Batterie électrique",
+        "plugInHybrid": "Hybride électrique rechargeable",
+        "hybridElectric": "Hybride électrique",
+        "other": "Autres types de carburant"
+    },
+    "provinces": {
+        "all": "Toutes les provinces",
+        "alberta": "Alberta",
+        "britishColumbia": "Colombie-Britannique",
+        "manitoba": "Manitoba",
+        "newBrunswick": "Nouveau-Brunswick",
+        "newfoundlandAndLabrador": "Terre-Neuve-et-Labrador",
+        "novaScotia": "Nouvelle-Écosse",
+        "northwestTerritories": "Territoires du Nord-Ouest",
+        "nunavut": "Nunavut",
+        "ontario": "Ontario",
+        "princeEdwardIsland": "Île-du-Prince-Édouard",
+        "quebec": "Québec",
+        "saskatchewan": "Saskatchewan",
+        "yukon": "Yukon"
+    }
+}

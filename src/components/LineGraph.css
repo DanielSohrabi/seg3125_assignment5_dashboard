@@ -1,0 +1,33 @@
+.form-label {
+    color: white;
+}
+
+.custom-slider::-webkit-slider-thumb {
+    background: #75bcffff !important;
+    transition: all 0.5s !important;
+}
+
+.custom-slider::-webkit-slider-thumb:hover {
+    background: #75bcffff !important;
+    transform: scale(1.5) perspective(10px);
+}
+
+.custom-slider::-webkit-slider-thumb:active {
+    background: #75bcffff !important;
+    transform: scale(1.5) perspective(10px);
+}
+
+.custom-slider::-moz-range-thumb {
+    background: #75bcffff !important;
+    transition: all 0.5s !important;
+}
+
+.custom-slider::-moz-range-thumb:hover {
+    background: #75bcffff !important;
+    transform: scale(1.5) perspective(10px);
+}
+
+.custom-slider::-moz-range-thumb:active {
+    background: #75bcffff !important;
+    transform: scale(1.5) perspective(10px);
+}
